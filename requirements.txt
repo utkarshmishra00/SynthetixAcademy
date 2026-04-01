@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-ollama
+chromadb
+pymupdf
+yt-dlp
+openai-whisper
+python-dotenv
+requests

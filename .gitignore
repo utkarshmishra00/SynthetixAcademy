@@ -1,0 +1,14 @@
+# Environments
+venv/
+__pycache__/
+
+# Environment Variables (DO NOT UPLOAD API KEYS!)
+.env
+
+# Local Database & Uploads
+data/
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
